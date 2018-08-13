@@ -31,7 +31,7 @@ def using_insert (arr, n)
   arr.insert(n, 4)
 end
 
-def using_unique (arr)
+def using_uniq (arr)
   arr.unique()
 end
 
