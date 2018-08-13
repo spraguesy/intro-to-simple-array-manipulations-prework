@@ -29,3 +29,7 @@ end
 def using_insert (arr, n)
   arr.insert(n, 4)
 end
+
+def using_unique (arr)
+  arr.unique()
+end
